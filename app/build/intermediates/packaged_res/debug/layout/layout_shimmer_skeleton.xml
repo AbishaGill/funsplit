@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    CSS-only shimmer skeleton: three placeholder rows shown while
+    the real expense list loads. Each row mimics the item_expense layout
+    with animated shimmering backgrounds.
+    No third-party library needed — pure XML drawables + animation.
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <include layout="@layout/item_shimmer_row" />
+    <include layout="@layout/item_shimmer_row" />
+    <include layout="@layout/item_shimmer_row" />
+
+</LinearLayout>

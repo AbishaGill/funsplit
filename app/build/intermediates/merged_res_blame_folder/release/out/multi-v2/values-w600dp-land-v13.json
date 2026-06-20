@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.finsplit.app-mergeReleaseResources-47:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tech Treasure\\.gradle\\caches\\transforms-3\\6303a792e7c46e29fa9fbe15053ed78c\\transformed\\material-1.12.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

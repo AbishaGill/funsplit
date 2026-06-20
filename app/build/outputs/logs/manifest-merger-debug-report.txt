@@ -1,0 +1,1107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:17:1-66:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\a496acb6261e3789aa8521196090a663\transformed\jetified-credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6303a792e7c46e29fa9fbe15053ed78c\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\7e6336b4578068c09e37a46aabe9b13a\transformed\jetified-glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tech Treasure\.gradle\caches\transforms-3\41072d8351ce499e82f46e35833ff932\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\21d39b42470ba5362d3d5986e8588de6\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\b6ce34441f1fbbbd6261d253296b178e\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\93e6836d658a61c75fb623fea80b914b\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8e337c42c6db673b2a9aa58193911c65\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f43f70826dda5eeb007ef8bfc98d2395\transformed\jetified-play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Tech Treasure\.gradle\caches\transforms-3\bcfd2384376be4a41944a7c4ea6c8fc5\transformed\jetified-play-services-auth-base-18.0.10\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\036d51024ad4b960f93cd2dcfd6f7c9e\transformed\jetified-integrity-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c6cfc3b93d6f5158ba03cab5181c7eac\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\7b6d9446a7ac0bd21fbd67de27771de9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6190ec8b6e65994b9358dcf0442d2321\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\56ee21b3f39997cf5ddc33bff97749ed\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f5b93f7023b718cc254e418cae77b39f\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1f06007c2079212b9745d718a98e8679\transformed\jetified-room-ktx-2.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f5c0d47f3085993ccb4bb08fb397264b\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e5e1f861dd4da20d5a5f0cd7f7623370\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c9cba42a352036afd9f56d5e67f7fc09\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ed037943f880e7efebc8b5219725ee4d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\04939ceaeb2cf636d47847bbc46c88cc\transformed\loader-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\436eb5869e19e6a0b20d77d35188dd87\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d45be3e4c1f2a7177405532b55ac2bfe\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4e0b0c46e4420afebb026327dc89ee32\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ae2f5a27cd1588bec2521d6891319abc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5e88bc4fff31d29fac2fa74e0bcdfd23\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\973c8582ebb1a66fe0844cb8ee530874\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\fd311bb240c876c2f1d3124d85c6ac02\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\96e58c759d321c434e0216b8362a0e2e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\435e9e52878058ac4be6c807abb46549\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\589026d5e4703350d9bc7c76a9dd315e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4879e34389ddb3aa8fc9cf5fbd0c6c5b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5c0149311cffe001f619c853f78c4ebc\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\006565eac1855cafc7a43c96c3b29595\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e3a7031e81f1e288205287fd6f271542\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\df71f850cf2e621defa839558edc021d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\256f9c829c9a3d5287e76d6efd30dd98\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ff504eb1cc2be8b2c96ef8029f6cc7db\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\99e2cc48a77c4bbbc4958fd28cc46454\transformed\jetified-firebase-installations-interop-17.3.0\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\456ede8aad814900e048cd28c187e02a\transformed\jetified-play-services-tasks-18.4.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\2ce9255ad441218608384f70bd1d32d7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85f4c45b0609234509b25bcde05cd4e6\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.8.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ee1dad94a313b19b498e247ea253a740\transformed\fragment-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d7f60444bd729cafe998ff962a19b175\transformed\jetified-activity-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\86a791af2ce78d056647e15a49293404\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\b2805ddb4b138a5deaea3f6963b03bf4\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c3134622a1992a7f3e820646f181401e\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0034226a79479eff0f99574225128b34\transformed\jetified-firebase-components-19.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\938544ebc6d91cc0a2ee06c744e09189\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c66db1ba81b3d1167068ded68a4677d6\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4674c964d1e1529488de85418ac9ae58\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\066e3695411e0640835314a969d792d6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5770b227d54fb557954b3c2c96c2216e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85bd25d7760888ef5082558668a506e1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d0e82f02effd1090422e23076c945049\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\51ec5b3e979a94b92af8a828227a5e22\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\9e8bef0abc01bc87d7cd23f4c3694009\transformed\jetified-transport-api-3.1.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e74b40173287c33202410a221b7a11fd\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\41c33d19ec05164ad9b11cbdac7ab7a1\transformed\sqlite-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6d19c54c3afdc0b1824c012c9f29f02e\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\619dad2175b04cf8c72d101e987ab5fc\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\9f24f2db88db0f80685fcb557a39e2e1\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\68ecd3380a24925b7c844cd92f990112\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0c230ea9d37ab7802c9ad6966b639475\transformed\jetified-googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6caaa05693529e7a576b59df4c063553\transformed\jetified-protolite-well-known-types-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:6:5-77
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:6:22-74
+application
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:8:5-77:19
+INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:8:5-77:19
+MERGED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:28:5-64:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6303a792e7c46e29fa9fbe15053ed78c\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6303a792e7c46e29fa9fbe15053ed78c\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tech Treasure\.gradle\caches\transforms-3\41072d8351ce499e82f46e35833ff932\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tech Treasure\.gradle\caches\transforms-3\41072d8351ce499e82f46e35833ff932\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\036d51024ad4b960f93cd2dcfd6f7c9e\transformed\jetified-integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\036d51024ad4b960f93cd2dcfd6f7c9e\transformed\jetified-integrity-1.3.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c6cfc3b93d6f5158ba03cab5181c7eac\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c6cfc3b93d6f5158ba03cab5181c7eac\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\7b6d9446a7ac0bd21fbd67de27771de9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\7b6d9446a7ac0bd21fbd67de27771de9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\56ee21b3f39997cf5ddc33bff97749ed\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\56ee21b3f39997cf5ddc33bff97749ed\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f5b93f7023b718cc254e418cae77b39f\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f5b93f7023b718cc254e418cae77b39f\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:28:5-143:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c9cba42a352036afd9f56d5e67f7fc09\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c9cba42a352036afd9f56d5e67f7fc09\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\456ede8aad814900e048cd28c187e02a\transformed\jetified-play-services-tasks-18.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\456ede8aad814900e048cd28c187e02a\transformed\jetified-play-services-tasks-18.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\2ce9255ad441218608384f70bd1d32d7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\2ce9255ad441218608384f70bd1d32d7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85f4c45b0609234509b25bcde05cd4e6\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85f4c45b0609234509b25bcde05cd4e6\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4674c964d1e1529488de85418ac9ae58\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4674c964d1e1529488de85418ac9ae58\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85bd25d7760888ef5082558668a506e1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85bd25d7760888ef5082558668a506e1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:14:9-46
+activity#com.finsplit.app.activities.SplashActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:19:13-57
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:17:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.finsplit.app.activities.LoginActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:26:9-29:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:29:13-55
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:27:13-53
+activity#com.finsplit.app.activities.EmailLoginActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:31:9-34:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:34:13-55
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.finsplit.app.activities.RegisterActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:36:9-39:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:39:13-55
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:37:13-56
+activity#com.finsplit.app.activities.MainActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:41:9-44:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:44:13-55
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:42:13-52
+activity#com.finsplit.app.activities.InviteSetupActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:46:9-49:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:49:13-55
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:47:13-59
+activity#com.finsplit.app.activities.SettleUpActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:51:9-53:40
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:52:13-56
+activity#com.finsplit.app.activities.ExpenseHistoryActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:55:9-57:40
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:56:13-62
+activity#com.finsplit.app.activities.ProfileActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:59:9-62:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:62:13-55
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:60:13-55
+activity#com.finsplit.app.activities.WeeklyReportActivity
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:64:9-66:40
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:65:13-60
+service#com.finsplit.app.services.FinSplitMessagingService
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:69:9-75:19
+	android:exported
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:70:13-62
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:72:13-74:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:73:17-78
+	android:name
+		ADDED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml:73:25-75
+uses-sdk
+INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\a496acb6261e3789aa8521196090a663\transformed\jetified-credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\a496acb6261e3789aa8521196090a663\transformed\jetified-credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6303a792e7c46e29fa9fbe15053ed78c\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6303a792e7c46e29fa9fbe15053ed78c\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\7e6336b4578068c09e37a46aabe9b13a\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\7e6336b4578068c09e37a46aabe9b13a\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tech Treasure\.gradle\caches\transforms-3\41072d8351ce499e82f46e35833ff932\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tech Treasure\.gradle\caches\transforms-3\41072d8351ce499e82f46e35833ff932\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\21d39b42470ba5362d3d5986e8588de6\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\21d39b42470ba5362d3d5986e8588de6\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\b6ce34441f1fbbbd6261d253296b178e\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\b6ce34441f1fbbbd6261d253296b178e\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\93e6836d658a61c75fb623fea80b914b\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\93e6836d658a61c75fb623fea80b914b\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8e337c42c6db673b2a9aa58193911c65\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8e337c42c6db673b2a9aa58193911c65\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f43f70826dda5eeb007ef8bfc98d2395\transformed\jetified-play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f43f70826dda5eeb007ef8bfc98d2395\transformed\jetified-play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Tech Treasure\.gradle\caches\transforms-3\bcfd2384376be4a41944a7c4ea6c8fc5\transformed\jetified-play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Tech Treasure\.gradle\caches\transforms-3\bcfd2384376be4a41944a7c4ea6c8fc5\transformed\jetified-play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\036d51024ad4b960f93cd2dcfd6f7c9e\transformed\jetified-integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\036d51024ad4b960f93cd2dcfd6f7c9e\transformed\jetified-integrity-1.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c6cfc3b93d6f5158ba03cab5181c7eac\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c6cfc3b93d6f5158ba03cab5181c7eac\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\7b6d9446a7ac0bd21fbd67de27771de9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\7b6d9446a7ac0bd21fbd67de27771de9\transformed\jetified-firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6190ec8b6e65994b9358dcf0442d2321\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6190ec8b6e65994b9358dcf0442d2321\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\56ee21b3f39997cf5ddc33bff97749ed\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\56ee21b3f39997cf5ddc33bff97749ed\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f5b93f7023b718cc254e418cae77b39f\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f5b93f7023b718cc254e418cae77b39f\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1f06007c2079212b9745d718a98e8679\transformed\jetified-room-ktx-2.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1f06007c2079212b9745d718a98e8679\transformed\jetified-room-ktx-2.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f5c0d47f3085993ccb4bb08fb397264b\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f5c0d47f3085993ccb4bb08fb397264b\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e5e1f861dd4da20d5a5f0cd7f7623370\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e5e1f861dd4da20d5a5f0cd7f7623370\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c9cba42a352036afd9f56d5e67f7fc09\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c9cba42a352036afd9f56d5e67f7fc09\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ed037943f880e7efebc8b5219725ee4d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ed037943f880e7efebc8b5219725ee4d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\04939ceaeb2cf636d47847bbc46c88cc\transformed\loader-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\04939ceaeb2cf636d47847bbc46c88cc\transformed\loader-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\436eb5869e19e6a0b20d77d35188dd87\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\436eb5869e19e6a0b20d77d35188dd87\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d45be3e4c1f2a7177405532b55ac2bfe\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d45be3e4c1f2a7177405532b55ac2bfe\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4e0b0c46e4420afebb026327dc89ee32\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4e0b0c46e4420afebb026327dc89ee32\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ae2f5a27cd1588bec2521d6891319abc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ae2f5a27cd1588bec2521d6891319abc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5e88bc4fff31d29fac2fa74e0bcdfd23\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5e88bc4fff31d29fac2fa74e0bcdfd23\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\973c8582ebb1a66fe0844cb8ee530874\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\973c8582ebb1a66fe0844cb8ee530874\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\fd311bb240c876c2f1d3124d85c6ac02\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\fd311bb240c876c2f1d3124d85c6ac02\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\96e58c759d321c434e0216b8362a0e2e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\96e58c759d321c434e0216b8362a0e2e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\435e9e52878058ac4be6c807abb46549\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\435e9e52878058ac4be6c807abb46549\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\589026d5e4703350d9bc7c76a9dd315e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\589026d5e4703350d9bc7c76a9dd315e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4879e34389ddb3aa8fc9cf5fbd0c6c5b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4879e34389ddb3aa8fc9cf5fbd0c6c5b\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5c0149311cffe001f619c853f78c4ebc\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5c0149311cffe001f619c853f78c4ebc\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\006565eac1855cafc7a43c96c3b29595\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\006565eac1855cafc7a43c96c3b29595\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e3a7031e81f1e288205287fd6f271542\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e3a7031e81f1e288205287fd6f271542\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\df71f850cf2e621defa839558edc021d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\df71f850cf2e621defa839558edc021d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\256f9c829c9a3d5287e76d6efd30dd98\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\256f9c829c9a3d5287e76d6efd30dd98\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ff504eb1cc2be8b2c96ef8029f6cc7db\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ff504eb1cc2be8b2c96ef8029f6cc7db\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\99e2cc48a77c4bbbc4958fd28cc46454\transformed\jetified-firebase-installations-interop-17.3.0\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\99e2cc48a77c4bbbc4958fd28cc46454\transformed\jetified-firebase-installations-interop-17.3.0\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\456ede8aad814900e048cd28c187e02a\transformed\jetified-play-services-tasks-18.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\456ede8aad814900e048cd28c187e02a\transformed\jetified-play-services-tasks-18.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\2ce9255ad441218608384f70bd1d32d7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\2ce9255ad441218608384f70bd1d32d7\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85f4c45b0609234509b25bcde05cd4e6\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85f4c45b0609234509b25bcde05cd4e6\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.8.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ee1dad94a313b19b498e247ea253a740\transformed\fragment-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ee1dad94a313b19b498e247ea253a740\transformed\fragment-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d7f60444bd729cafe998ff962a19b175\transformed\jetified-activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d7f60444bd729cafe998ff962a19b175\transformed\jetified-activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\86a791af2ce78d056647e15a49293404\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\86a791af2ce78d056647e15a49293404\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\b2805ddb4b138a5deaea3f6963b03bf4\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\b2805ddb4b138a5deaea3f6963b03bf4\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c3134622a1992a7f3e820646f181401e\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c3134622a1992a7f3e820646f181401e\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0034226a79479eff0f99574225128b34\transformed\jetified-firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0034226a79479eff0f99574225128b34\transformed\jetified-firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\938544ebc6d91cc0a2ee06c744e09189\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\938544ebc6d91cc0a2ee06c744e09189\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c66db1ba81b3d1167068ded68a4677d6\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Tech Treasure\.gradle\caches\transforms-3\c66db1ba81b3d1167068ded68a4677d6\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4674c964d1e1529488de85418ac9ae58\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4674c964d1e1529488de85418ac9ae58\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\066e3695411e0640835314a969d792d6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\066e3695411e0640835314a969d792d6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5770b227d54fb557954b3c2c96c2216e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\5770b227d54fb557954b3c2c96c2216e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85bd25d7760888ef5082558668a506e1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85bd25d7760888ef5082558668a506e1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d0e82f02effd1090422e23076c945049\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\d0e82f02effd1090422e23076c945049\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\51ec5b3e979a94b92af8a828227a5e22\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\51ec5b3e979a94b92af8a828227a5e22\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\9e8bef0abc01bc87d7cd23f4c3694009\transformed\jetified-transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\9e8bef0abc01bc87d7cd23f4c3694009\transformed\jetified-transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e74b40173287c33202410a221b7a11fd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e74b40173287c33202410a221b7a11fd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\41c33d19ec05164ad9b11cbdac7ab7a1\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\41c33d19ec05164ad9b11cbdac7ab7a1\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6d19c54c3afdc0b1824c012c9f29f02e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6d19c54c3afdc0b1824c012c9f29f02e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\619dad2175b04cf8c72d101e987ab5fc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\619dad2175b04cf8c72d101e987ab5fc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\9f24f2db88db0f80685fcb557a39e2e1\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\9f24f2db88db0f80685fcb557a39e2e1\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\68ecd3380a24925b7c844cd92f990112\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\68ecd3380a24925b7c844cd92f990112\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0c230ea9d37ab7802c9ad6966b639475\transformed\jetified-googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0c230ea9d37ab7802c9ad6966b639475\transformed\jetified-googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6caaa05693529e7a576b59df4c063553\transformed\jetified-protolite-well-known-types-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\6caaa05693529e7a576b59df4c063553\transformed\jetified-protolite-well-known-types-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tech Treasure\Desktop\Java\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:7:5-79
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\b2805ddb4b138a5deaea3f6963b03bf4\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\b2805ddb4b138a5deaea3f6963b03bf4\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\763e58bbd7bf53f9a9083d90381155c2\transformed\jetified-firebase-auth-24.1.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\dfb1602bc0a3e89bac3c86b3790664c4\transformed\jetified-firebase-firestore-26.4.0\AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:9:5-68
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:5-68
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.4.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1675e09fcf658574af60ccbc93734ba6\transformed\jetified-play-services-cloud-messaging-17.4.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:47:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\3ae2583a7f7bb1dd1e1df77bef47fa0a\transformed\jetified-firebase-messaging-25.1.0\AndroidManifest.xml:61:17-119
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Tech Treasure\.gradle\caches\transforms-3\60627a6be537e6fd8a726c49fbead57c\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\e92afe7aad5a6e884d9acf524149f363\transformed\jetified-play-services-auth-21.2.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\27838c8ca36724126d448510f931360e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea0f562749749276d70367d09c495c3a\transformed\jetified-firebase-installations-19.1.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.1.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8794369690312a3d8731574a6d985e83\transformed\jetified-firebase-common-22.1.0\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\adb21f2b299a84879337cda2c4797cd6\transformed\jetified-play-services-base-18.9.0\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4674c964d1e1529488de85418ac9ae58\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\4674c964d1e1529488de85418ac9ae58\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:33:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:30:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:35:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\865da18fea5dd6dc231f5b162efe58cd\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:25-85
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\73f65342f7bf98e391f42c9bbc8d85d7\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.finsplit.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.finsplit.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\f3e5494589124acf0b66790e07b781b4\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tech Treasure\.gradle\caches\transforms-3\38bc4488a1e928e464a910daa06f18a0\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85f4c45b0609234509b25bcde05cd4e6\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85f4c45b0609234509b25bcde05cd4e6\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.9.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\85f4c45b0609234509b25bcde05cd4e6\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:22:13-58
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\0fd829f9fd0369a0b416f73319fb862f\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\1c1c040ab2cb5398701055ab5b3a6822\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Tech Treasure\.gradle\caches\transforms-3\ea20eb71260a71f551897d8e79f6cf2b\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34979612c3420b6969a92b808262dd94\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Tech Treasure\.gradle\caches\transforms-3\8701cd70f8df70342543015ac99e880a\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] C:\Users\Tech Treasure\.gradle\caches\transforms-3\34fea4d510c4ecce2844d8a33d44f3df\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:15:13-93

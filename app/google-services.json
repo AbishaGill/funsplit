@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941108377312",
+    "project_id": "finsplit-afaad",
+    "storage_bucket": "finsplit-afaad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941108377312:android:3d95227035cab6c58f4285",
+        "android_client_info": {
+          "package_name": "com.finsplit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgtchVv_4p__uox9OPQFeqs8_7p-QAvvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

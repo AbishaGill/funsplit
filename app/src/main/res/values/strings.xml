@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinSplit</string>
+    <!-- Placeholder: replace with real OAuth web client ID from Firebase Console -->
+    <string name="default_web_client_id">REPLACE_WITH_REAL_WEB_CLIENT_ID</string>
+
+    <!-- Auth — Login screen -->
+    <string name="login_subtitle">Track expenses together.</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="continue_with_email">Continue with email</string>
+    <string name="sign_in_failed">Sign-in failed. Please try again.</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- Auth — Register -->
+    <string name="create_account">Create account</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="back">Back</string>
+
+    <!-- Validation errors -->
+    <string name="error_email_required">Email is required</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_title_required">Please enter a title</string>
+    <string name="error_amount_required">Please enter an amount</string>
+    <string name="error_amount_invalid">Enter a valid positive amount</string>
+    <string name="error_invite_empty">Enter a name or email</string>
+
+    <!-- Navigation -->
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard balance card -->
+    <string name="your_total_placeholder">Your Total ₨0</string>
+    <string name="partner_total_placeholder">Partner\'s Total ₨0</string>
+    <string name="you_are_owed_placeholder">You\'re owed ₨0</string>
+    <string name="recent_expenses">Recent Expenses</string>
+
+    <!-- Groups -->
+    <string name="create_group">Create Group</string>
+    <string name="group_name">Group Name</string>
+    <string name="add_members">Add Members</string>
+    <string name="no_groups">No groups yet.\nTap + to create one.</string>
+
+    <!-- Expenses -->
+    <string name="add_expense">Add Expense</string>
+    <string name="what_was_it_for">What was it for?</string>
+    <string name="how_much_pkr">How much?</string>
+    <string name="category">Category</string>
+    <string name="expense_title">Expense Title</string>
+    <string name="amount">Amount</string>
+    <string name="paid_by">Paid by</string>
+    <string name="split_equally">Split equally</string>
+    <string name="no_expenses">No expenses yet.\nTap + to add one.</string>
+
+    <!-- Category chips -->
+    <string name="category_food">Food</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_rent">Rent</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_other">Other</string>
+
+    <!-- Balances -->
+    <string name="you_owe">You owe</string>
+    <string name="owes_you">owes you</string>
+    <string name="settled_up">Settled up</string>
+    <string name="settle_up">Settle up</string>
+    <string name="total_balance">Total balance</string>
+    <string name="currency_pkr">PKR</string>
+
+    <!-- Invite -->
+    <string name="invite_headline">Who are you splitting with?</string>
+    <string name="invite_hint">Name or Email</string>
+    <string name="send_invite">Send Invite</string>
+    <string name="share_link">Share link instead</string>
+    <string name="or">OR</string>
+    <string name="invite_sent">Invite sent to %1$s</string>
+    <string name="share_link_text">Join me on FinSplit: %1$s</string>
+
+    <!-- See all / history link -->
+    <string name="see_all">See All</string>
+
+    <!-- Settle up -->
+    <string name="mark_settled">Mark Settled</string>
+    <string name="all_settled_up">All settled up!</string>
+
+    <!-- History -->
+    <string name="expense_history">Expense History</string>
+    <string name="no_expenses_history">No expenses yet.\nAdd your first one!</string>
+    <string name="filter_all">All</string>
+    <string name="error_delete_not_payer">You can only delete expenses you paid for.</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="default_currency">Default currency</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="invite_partner">Invite Partner</string>
+    <string name="currency_saved">Currency updated to %1$s</string>
+
+    <!-- Weekly report -->
+    <string name="weekly_report">Weekly Report</string>
+    <string name="this_week">This Week</string>
+    <string name="previous_reports">Previous Reports</string>
+    <string name="no_reports_yet">No reports yet. Check back after your first week!</string>
+
+    <!-- Offline banner -->
+    <string name="offline_banner">You\'re offline — showing cached data</string>
+
+    <!-- Notifications permission rationale -->
+    <string name="notif_rationale_title">Stay in the loop</string>
+    <string name="notif_rationale_body">Allow notifications to get alerts when your partner adds an expense.</string>
+
+    <!-- General -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="confirm">Confirm</string>
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+</resources>

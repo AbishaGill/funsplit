@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- TextInputLayout floating label: focused → #E07B39, default → #85736B -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#E07B39" android:state_focused="true" />
+    <item android:color="#85736B" />
+</selector>

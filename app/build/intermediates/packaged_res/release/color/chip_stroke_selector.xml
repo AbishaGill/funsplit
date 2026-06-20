@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Chip stroke: selected → #E07B39, default → outline_variant -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#E07B39" android:state_checked="true" />
+    <item android:color="#D8C2B8" />
+</selector>

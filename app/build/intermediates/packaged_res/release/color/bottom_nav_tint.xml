@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bottom nav icon/text: active → #E07B39, inactive → #85736B -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#E07B39" android:state_checked="true" />
+    <item android:color="#85736B" />
+</selector>
