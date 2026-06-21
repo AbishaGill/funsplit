@@ -1,0 +1,36 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio / build output
+/app/build
+build/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Google Services (may contain keys)
+# google-services.json
+
+.claude
