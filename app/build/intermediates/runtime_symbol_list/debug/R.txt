@@ -3336,6 +3336,8 @@ int id cache_measures 0x7f0a007f
 int id callMeasure 0x7f0a0080
 int id cancel_button 0x7f0a0081
 int id card_balance 0x7f0a0082
+int id card_balance_bg 0x7f0a0264
+int id card_chart 0x7f0a0265
 int id carryVelocity 0x7f0a0083
 int id center 0x7f0a0084
 int id centerCrop 0x7f0a0085
@@ -3345,6 +3347,7 @@ int id center_vertical 0x7f0a0088
 int id chain 0x7f0a0089
 int id chain2 0x7f0a008a
 int id chains 0x7f0a008b
+int id chart_view 0x7f0a0266
 int id checkbox 0x7f0a008c
 int id checked 0x7f0a008d
 int id chip_all 0x7f0a008e
@@ -3491,6 +3494,8 @@ int id jumpToEnd 0x7f0a011a
 int id jumpToStart 0x7f0a011b
 int id labeled 0x7f0a011c
 int id layout 0x7f0a011d
+int id layout_all_settled 0x7f0a0267
+int id layout_no_partner 0x7f0a0268
 int id left 0x7f0a011e
 int id leftToRight 0x7f0a011f
 int id legacy 0x7f0a0120
@@ -3761,6 +3766,8 @@ int id tv_app_name 0x7f0a0228
 int id tv_avatar 0x7f0a0229
 int id tv_avatar_from 0x7f0a022a
 int id tv_avatar_to 0x7f0a022b
+int id tv_balance_amount 0x7f0a0269
+int id tv_balance_label 0x7f0a026a
 int id tv_category 0x7f0a022c
 int id tv_category_date 0x7f0a022d
 int id tv_date 0x7f0a022e

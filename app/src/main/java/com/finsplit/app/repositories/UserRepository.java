@@ -116,6 +116,34 @@ public class UserRepository {
                 .addOnFailureListener(e -> { /* best-effort, no callback needed */ });
     }
 
+    public void findUserByEmail(String email, OnUserFoundCallback callback) {
+        db.collection(AppConstants.COLLECTION_USERS)
+                .whereEqualTo("email", email)
+                .limit(1)
+                .get()
+                .addOnSuccessListener(snapshots -> {
+                    if (snapshots.isEmpty()) {
+                        callback.onNotFound();
+                    } else {
+                        com.finsplit.app.models.User user =
+                                snapshots.getDocuments().get(0).toObject(com.finsplit.app.models.User.class);
+                        if (user != null) {
+                            user.setUserId(snapshots.getDocuments().get(0).getId());
+                            callback.onFound(user);
+                        } else {
+                            callback.onNotFound();
+                        }
+                    }
+                })
+                .addOnFailureListener(e -> callback.onError(e.getMessage()));
+    }
+
+    public interface OnUserFoundCallback {
+        void onFound(com.finsplit.app.models.User user);
+        void onNotFound();
+        void onError(String error);
+    }
+
     private String safeString(String value) {
         return value != null ? value : "";
     }

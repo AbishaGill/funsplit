@@ -85,6 +85,9 @@ id btn_sign_in
 id btn_sign_out
 id btn_weekly_report
 id card_balance
+id card_balance_bg
+id card_chart
+id chart_view
 id chip_all
 id chip_food
 id chip_group_category
@@ -105,6 +108,8 @@ id iv_arrow
 id iv_logo
 id iv_profile_pic
 id iv_trend
+id layout_all_settled
+id layout_no_partner
 id nav_expenses
 id nav_settings
 id progress_bar
@@ -129,6 +134,8 @@ id tv_app_name
 id tv_avatar
 id tv_avatar_from
 id tv_avatar_to
+id tv_balance_amount
+id tv_balance_label
 id tv_category
 id tv_category_date
 id tv_date

@@ -12,7 +12,20 @@
           "package_name": "com.finsplit.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "941108377312-7ssediuoloabt9bbrmof4tomk49sf3qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finsplit.app",
+            "certificate_hash": "51f5ee011d3c0ed50d566291e0d1a4c94ea25cf6"
+          }
+        },
+        {
+          "client_id": "941108377312-8vta7pgohrerv11hll1dunl2j0dbakgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCgtchVv_4p__uox9OPQFeqs8_7p-QAvvY"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941108377312-8vta7pgohrerv11hll1dunl2j0dbakgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

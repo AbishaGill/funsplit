@@ -89,7 +89,7 @@
     <string name="currency_pkr">PKR</string>
     <string name="currency_saved">Currency updated to %1$s</string>
     <string name="default_currency">Default currency</string>
-    <string name="default_web_client_id">REPLACE_WITH_REAL_WEB_CLIENT_ID</string>
+    <string name="default_web_client_id" translatable="false">941108377312-8vta7pgohrerv11hll1dunl2j0dbakgu.apps.googleusercontent.com</string>
     <string name="delete">Delete</string>
     <string name="email">Email</string>
     <string name="error_amount_invalid">Enter a valid positive amount</string>

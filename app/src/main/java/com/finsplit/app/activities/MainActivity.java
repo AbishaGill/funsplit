@@ -18,6 +18,7 @@ import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import androidx.work.Data;
 import androidx.work.ExistingPeriodicWorkPolicy;
 import androidx.work.PeriodicWorkRequest;
 import androidx.work.WorkManager;
@@ -211,12 +212,20 @@ public class MainActivity extends BaseActivity {
     // ── WorkManager — weekly report ───────────────────────────────────────────
 
     private void scheduleWeeklyReport() {
+        FirebaseUser fbUser = FirebaseAuth.getInstance().getCurrentUser();
+        if (fbUser == null) return;
+
+        Data inputData = new Data.Builder()
+                .putString(WeeklyReportWorker.KEY_UID, fbUser.getUid())
+                .build();
+
         PeriodicWorkRequest request = new PeriodicWorkRequest.Builder(
                 WeeklyReportWorker.class, 7, TimeUnit.DAYS)
+                .setInputData(inputData)
                 .build();
         WorkManager.getInstance(this).enqueueUniquePeriodicWork(
                 "weekly_report",
-                ExistingPeriodicWorkPolicy.KEEP,
+                ExistingPeriodicWorkPolicy.REPLACE,
                 request);
     }
 
@@ -237,7 +246,7 @@ public class MainActivity extends BaseActivity {
             @Override
             public void onError(String error) {
                 Group newGroup = new Group("My Group", groupMembers);
-                expenseRepository.createGroup(newGroup, new ExpenseRepository.OnGroupCreatedCallback() {
+                expenseRepository.createGroup(groupId, newGroup, new ExpenseRepository.OnGroupCreatedCallback() {
                     @Override
                     public void onCreated(String id) {
                         groupId = id;

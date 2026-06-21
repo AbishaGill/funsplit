@@ -8,6 +8,7 @@ import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.ListenerRegistration;
 import com.google.firebase.firestore.Query;
+import com.google.firebase.firestore.SetOptions;
 import com.google.firebase.firestore.WriteBatch;
 
 import java.util.ArrayList;
@@ -73,7 +74,7 @@ public class ExpenseRepository {
         DocumentReference groupRef = db
                 .collection(AppConstants.COLLECTION_GROUPS)
                 .document(groupId);
-        batch.update(groupRef, balanceUpdates);
+        batch.set(groupRef, balanceUpdates, SetOptions.merge());
 
         batch.commit()
                 .addOnSuccessListener(unused -> callback.onExpenseAdded(expense))
@@ -113,11 +114,12 @@ public class ExpenseRepository {
 
     // ── Group helpers ─────────────────────────────────────────────────────────
 
-    /** Creates a new group document; passes the generated groupId back via callback. */
-    public void createGroup(Group group, OnGroupCreatedCallback callback) {
+    /** Creates a group document at a specific ID so it can always be looked up by the same key. */
+    public void createGroup(String groupId, Group group, OnGroupCreatedCallback callback) {
         db.collection(AppConstants.COLLECTION_GROUPS)
-                .add(group)
-                .addOnSuccessListener(ref -> callback.onCreated(ref.getId()))
+                .document(groupId)
+                .set(group)
+                .addOnSuccessListener(unused -> callback.onCreated(groupId))
                 .addOnFailureListener(e -> callback.onError(e.getMessage()));
     }
 
@@ -141,7 +143,31 @@ public class ExpenseRepository {
                 .addOnFailureListener(e -> callback.onError(e.getMessage()));
     }
 
+    public void addMemberToGroup(String groupId, String newMemberUid, OnGroupUpdatedCallback callback) {
+        DocumentReference groupRef = db.collection(AppConstants.COLLECTION_GROUPS).document(groupId);
+        db.runTransaction(transaction -> {
+            com.google.firebase.firestore.DocumentSnapshot snap = transaction.get(groupRef);
+            Group group = snap.toObject(Group.class);
+            if (group == null) throw new RuntimeException("Group not found");
+            java.util.List<String> members = group.getMembers();
+            if (members == null) members = new ArrayList<>();
+            if (!members.contains(newMemberUid)) {
+                members.add(newMemberUid);
+                transaction.update(groupRef, "members", members);
+                transaction.update(groupRef, "balances." + newMemberUid, 0.0);
+            }
+            return null;
+        })
+        .addOnSuccessListener(unused -> callback.onUpdated())
+        .addOnFailureListener(e -> callback.onError(e.getMessage()));
+    }
+
     // ── Nested callback interfaces ────────────────────────────────────────────
+
+    public interface OnGroupUpdatedCallback {
+        void onUpdated();
+        void onError(String error);
+    }
 
     public interface OnGroupCreatedCallback {
         void onCreated(String groupId);

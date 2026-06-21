@@ -17,7 +17,7 @@ import com.finsplit.app.models.Expense;
 import com.finsplit.app.repositories.ExpenseRepository;
 import com.finsplit.app.utils.AppConstants;
 import com.finsplit.app.utils.ExpenseCallback;
-import com.google.android.material.chip.Chip;
+import com.finsplit.app.views.CategoryBarChartView;
 import com.google.android.material.chip.ChipGroup;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FirebaseFirestore;
@@ -25,7 +25,9 @@ import com.google.firebase.firestore.ListenerRegistration;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Shows all expenses (descending) with category filter chips.
@@ -43,6 +45,8 @@ public class ExpenseHistoryActivity extends BaseActivity {
     private TextView tvEmpty;
     private RecyclerView rvHistory;
     private ChipGroup chipGroup;
+    private View cardChart;
+    private CategoryBarChartView chartView;
 
     private String myUid;
     private String groupId;
@@ -62,6 +66,8 @@ public class ExpenseHistoryActivity extends BaseActivity {
         tvEmpty   = findViewById(R.id.tv_history_empty);
         rvHistory = findViewById(R.id.rv_history);
         chipGroup = findViewById(R.id.chip_group_filter);
+        cardChart = findViewById(R.id.card_chart);
+        chartView = findViewById(R.id.chart_view);
 
         findViewById(R.id.btn_back_history).setOnClickListener(v -> finish());
 
@@ -77,6 +83,7 @@ public class ExpenseHistoryActivity extends BaseActivity {
             public void onExpensesLoaded(List<Expense> expenses) {
                 allExpenses = expenses;
                 applyFilter();
+                updateChart(expenses);
             }
             @Override public void onExpenseAdded(Expense e) {}
             @Override public void onError(String error) {
@@ -97,6 +104,16 @@ public class ExpenseHistoryActivity extends BaseActivity {
             else if (id == R.id.chip_other)     activeFilter = "OTHER";
             applyFilter();
         });
+    }
+
+    private void updateChart(List<Expense> expenses) {
+        Map<String, Double> totals = new HashMap<>();
+        for (Expense e : expenses) {
+            String cat = e.getCategory() != null ? e.getCategory() : Category.OTHER.name();
+            totals.put(cat, totals.getOrDefault(cat, 0.0) + e.getAmountPKR());
+        }
+        cardChart.setVisibility(totals.isEmpty() ? View.GONE : View.VISIBLE);
+        chartView.setData(totals);
     }
 
     private void applyFilter() {

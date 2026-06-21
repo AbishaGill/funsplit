@@ -3337,6 +3337,8 @@ id cache_measures
 id callMeasure
 id cancel_button
 id card_balance
+id card_balance_bg
+id card_chart
 id carryVelocity
 id center
 id centerCrop
@@ -3346,6 +3348,7 @@ id center_vertical
 id chain
 id chain2
 id chains
+id chart_view
 id checkbox
 id checked
 id chip_all
@@ -3492,6 +3495,8 @@ id jumpToEnd
 id jumpToStart
 id labeled
 id layout
+id layout_all_settled
+id layout_no_partner
 id left
 id leftToRight
 id legacy
@@ -3762,6 +3767,8 @@ id tv_app_name
 id tv_avatar
 id tv_avatar_from
 id tv_avatar_to
+id tv_balance_amount
+id tv_balance_label
 id tv_category
 id tv_category_date
 id tv_date

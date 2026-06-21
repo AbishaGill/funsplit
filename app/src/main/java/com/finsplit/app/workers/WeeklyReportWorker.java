@@ -14,12 +14,11 @@ import androidx.work.WorkerParameters;
 import com.finsplit.app.R;
 import com.finsplit.app.activities.MainActivity;
 import com.finsplit.app.models.Expense;
+import com.finsplit.app.models.Group;
 import com.finsplit.app.models.WeeklyReport;
 import com.finsplit.app.services.FinSplitMessagingService;
 import com.finsplit.app.utils.AppConstants;
 import com.finsplit.app.utils.WeeklyReportGenerator;
-import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 
@@ -27,15 +26,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * WorkManager Worker that runs once a week to generate a WeeklyReport,
- * persist it to Firestore, and post a local notification.
- *
- * Scheduled via PeriodicWorkRequest with a 7-day interval.
- * Worker is registered implicitly via WorkManager — no Manifest entry needed.
- */
 public class WeeklyReportWorker extends Worker {
 
+    public static final String KEY_UID = "uid";
     private static final int WEEKLY_NOTIF_ID = 2001;
 
     public WeeklyReportWorker(@NonNull Context context, @NonNull WorkerParameters params) {
@@ -45,16 +38,16 @@ public class WeeklyReportWorker extends Worker {
     @NonNull
     @Override
     public Result doWork() {
-        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-        if (user == null) return Result.failure();
+        // UID is passed as input data — FirebaseAuth is unreliable in background workers
+        String uid = getInputData().getString(KEY_UID);
+        if (uid == null || uid.isEmpty()) return Result.failure();
 
-        String uid     = user.getUid();
         String groupId = "group_" + uid;
-        List<String> members = Arrays.asList(uid);
 
-        // Synchronous Firestore fetch using Tasks.await() — Worker runs on a background thread
         try {
+            List<String> members = fetchGroupMembersSync(groupId, uid);
             List<Expense> expenses = fetchExpensesSync(groupId);
+
             WeeklyReportGenerator generator = new WeeklyReportGenerator();
             WeeklyReport report = generator.generate(expenses, members, uid);
 
@@ -64,6 +57,25 @@ public class WeeklyReportWorker extends Worker {
         } catch (Exception e) {
             return Result.retry();
         }
+    }
+
+    private List<String> fetchGroupMembersSync(String groupId, String fallbackUid) throws Exception {
+        com.google.android.gms.tasks.Task<com.google.firebase.firestore.DocumentSnapshot> task =
+                FirebaseFirestore.getInstance()
+                        .collection(AppConstants.COLLECTION_GROUPS)
+                        .document(groupId)
+                        .get();
+
+        com.google.firebase.firestore.DocumentSnapshot snap =
+                com.google.android.gms.tasks.Tasks.await(task);
+
+        if (snap.exists()) {
+            Group group = snap.toObject(Group.class);
+            if (group != null && group.getMembers() != null && !group.getMembers().isEmpty()) {
+                return group.getMembers();
+            }
+        }
+        return Arrays.asList(fallbackUid);
     }
 
     private List<Expense> fetchExpensesSync(String groupId) throws Exception {

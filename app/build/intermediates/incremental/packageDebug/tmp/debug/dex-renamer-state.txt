@@ -1,15 +1,15 @@
-#Sun Jun 21 01:07:14 QYZT 2026
-base.0=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.10=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
-base.2=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.3=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.4=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
-base.5=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
-base.6=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.7=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
-base.8=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.9=C\:\\Users\\Tech Treasure\\Desktop\\Java\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Sun Jun 21 19:28:10 PKT 2026
+base.0=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.10=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+base.2=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.3=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.4=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.5=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.6=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.7=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.8=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.9=E\:\\Claude Projects\\Finsplit\\funsplit\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=classes3.dex

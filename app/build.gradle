@@ -3,6 +3,12 @@ plugins {
     id 'com.google.gms.google-services'
 }
 
+configurations.all {
+    resolutionStrategy.force 'androidx.datastore:datastore-preferences:1.0.0'
+    resolutionStrategy.force 'androidx.datastore:datastore-preferences-core:1.0.0'
+    resolutionStrategy.force 'androidx.datastore:datastore-core:1.0.0'
+}
+
 android {
     namespace 'com.finsplit.app'
     compileSdk 34
@@ -74,4 +80,9 @@ dependencies {
     implementation 'androidx.work:work-runtime:2.9.0'
     // Guava ListenableFuture needed by WorkManager at compile time on Java-only projects
     implementation 'com.google.guava:guava:32.1.2-android'
+
+    // Required by Firebase Firestore for heartbeat storage.
+    // Must be 1.0.0 — the pre-KMP version — because the KMP 1.1.x artifact won't resolve
+    // its Android-specific classes correctly in a Java-only project (no Kotlin plugin applied).
+    implementation 'androidx.datastore:datastore-preferences:1.0.0'
 }
